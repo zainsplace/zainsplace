@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-I’m Zain, currently building my skills in **cybersecurity and coding** for fun and using Github to track my progress.
+I’m Zain — currently building my skills in **cybersecurity and coding** for the love of the game, using GitHub to track my progress.
 
-Creating open source tools for others to use.
+I’m also creating open-source tools for others to use.
 
-- 🔭 Working on: understanding cybersecurity concepts and techniques
-- 🌱 Learning: **HTML & Python**  
-- ⚡ Fun fact: I love coding all this **just for fun**  
+- 🔭 Working on: Building out my Github presence
+- 💻 Experience in: Godot coding, python scripting, reverse engineering
+- 🌱 Learning: HTML & Python, Security+
 
 ### 🏆 Educational Achievements
 - Student Ambassador at school  
-- Achieved L2 Distinction in Creative iMedia
-- Predicted D* in A-Level ICT
+- Level 2 Distinction in Creative iMedia  
+- Predicted D* in BTEC ICT Level 3 AAQ
 
-### 📫 Connect with me
+### 📫 Connect
 [acmanzain@gmail.com](mailto:acmanzain@gmail.com)
