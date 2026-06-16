@@ -1,17 +1,17 @@
-## Hi there 👋
+### Hi there 👋
+- 🎓Student Developer
+- 🔐Learning Cybersecurity
 
-I’m Zain — currently building my skills in **cybersecurity and coding** for the love of the game, using GitHub to track my progress.
+### What can i develop?
+- 🛡️Security tools
+- 🌐Personal websites
+- 🤖Machine Learning tools
 
-I’m also creating open-source tools for others to use.
-
-- 🔭 Working on: Building out my Github presence
-- 💻 Experience in: Godot coding, python scripting, reverse engineering
-- 🌱 Learning: HTML & Python, Security+
-
-### 🏆 Educational Achievements
-- Student Ambassador at school  
-- Level 2 Distinction in Creative iMedia  
-- Predicted D* in BTEC ICT Level 3 AAQ
+### What are my strengths?
+- Python scripting & automation
+- Cryptography
+- Active enumeration
 
 ### 📫 Connect
-[acmanzain@gmail.com](mailto:acmanzain@gmail.com)
+[acmanzain@gmail.com](mailto:acmanzain@gmail.com)  
+[LinkedIn](https://linkedin.com/in/zain-acman/)
