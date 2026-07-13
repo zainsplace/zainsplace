@@ -2,7 +2,7 @@
 - 🎓Student Developer
 - 🔐Learning Cybersecurity
 
-### What can i develop?
+### What can I develop?
 - 🛡️Security tools
 - 🌐Personal websites
 - 🤖Machine Learning tools
