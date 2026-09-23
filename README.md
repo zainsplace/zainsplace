@@ -11,10 +11,6 @@ I build detection and integrity tools for cloud security, in Python.
 - Network traffic analysis with Scapy
 - GitHub Actions CI
 
-### Security research
-
-I've had valid vulnerability reports accepted through bug bounty programmes.
-
 ### Contact
 
 I'm a student, looking for opportunities in cloud security.
