@@ -2,6 +2,8 @@
 
 I build detection and integrity tools for cloud security, in Python.
 
+Currently building [TrailSight](https://github.com/zainsplace/trailsight), explainable threat detection for AWS CloudTrail.
+
 ### Skills
 
 - Python, including tooling, command line interfaces and test suites with pytest
