@@ -15,4 +15,4 @@ I build detection and integrity tools for cloud security, in Python.
 
 I'm a student, looking for opportunities in cloud security.
 
-[acmanzain@gmail.com](mailto:acmanzain@gmail.com) · [LinkedIn](https://linkedin.com/in/zain-acman/)
+[Portfolio](https://zainsplace.github.io) · [LinkedIn](https://linkedin.com/in/zain-acman/)
