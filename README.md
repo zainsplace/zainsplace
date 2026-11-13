@@ -13,6 +13,13 @@ Currently building [TrailSight](https://github.com/zainsplace/trailsight), expla
 - Network traffic analysis with Scapy
 - GitHub Actions CI
 
+### Achievements
+
+- 1st place in a CTF and top five in three more, from 12 competitions (I cover Web, Forensics and Pwn in a team of three)
+- Top 5% globally on TryHackMe
+- 20+ vulnerability reports submitted to bug bounty programmes
+- Certifications: Fortinet Certified Fundamentals, Cisco Introduction to Cybersecurity
+
 ### Contact
 
 I'm a student, looking for opportunities in cloud security.
