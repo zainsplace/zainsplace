@@ -1,27 +1,34 @@
-### Hi, I'm Zain
+# Hi, I'm Zain
 
-I build detection and integrity tools for cloud security, in Python.
+Student security engineer focused on cloud security, detection engineering and applied cryptography.
 
-Currently building [TrailSight](https://github.com/zainsplace/trailsight), explainable threat detection for AWS CloudTrail.
+I build practical security tools in Python that explain their findings and document their limitations.
 
-### Skills
+## Featured projects
 
-- Python, including tooling, command line interfaces and test suites with pytest
-- AWS CloudTrail and detection engineering
-- Applied cryptography: HMAC signing and hashing
-- Threat modelling
-- Network traffic analysis with Scapy
-- GitHub Actions CI
+- [TrailSight](https://github.com/zainsplace/trailsight)  
+  Explainable, self-hostable threat detection for AWS CloudTrail.
 
-### Achievements
+- [Rugcheck](https://github.com/zainsplace/rugcheck)  
+  Evidence-driven Solana token risk analysis using deterministic rules.
 
-- 1st place in a CTF and top five in three more, from 12 competitions (I cover Web, Forensics and Pwn in a team of three)
+- [File Integrity Monitor](https://github.com/zainsplace/file-integrity-monitor)  
+  HMAC-signed filesystem baselines that detect and explain changes.
+
+## Evidence
+
+- 1st place in a CTF and top five in three others
 - Top 5% globally on TryHackMe
-- 20+ vulnerability reports submitted to bug bounty programmes
-- Certifications: Fortinet Certified Fundamentals, Cisco Introduction to Cybersecurity
+- 20+ vulnerability reports submitted to bug-bounty programmes
+- Fortinet Certified Fundamentals
+- Cisco Introduction to Cybersecurity
 
-### Contact
+## Technologies
 
-I'm a student, looking for opportunities in cloud security.
+Python · pytest · AWS CloudTrail · Scapy · HMAC · GitHub Actions
 
-[Portfolio](https://zainsplace.github.io) · [LinkedIn](https://linkedin.com/in/zain-acman/)
+[Portfolio](https://zainsplace.github.io) ·
+[LinkedIn](https://linkedin.com/in/zain-acman/) ·
+[TryHackMe](https://tryhackme.com/p/acmanzain)
+
+Currently looking for opportunities in cloud security and security engineering.
