@@ -18,7 +18,7 @@ I build practical security tools in Python that explain their findings and docum
 ## Achievements
 
 - 1st place in a CTF and top five in three others
-- Top 5% globally on TryHackMe
+- Top 15% globally on TryHackMe
 - 20+ vulnerability reports submitted to bug-bounty programmes
 - Fortinet Certified Fundamentals
 - Cisco Introduction to Cybersecurity
