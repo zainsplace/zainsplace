@@ -15,7 +15,7 @@ I build practical security tools in Python that explain their findings and docum
 - [File Integrity Monitor](https://github.com/zainsplace/file-integrity-monitor)  
   HMAC-signed filesystem baselines that detect and explain changes.
 
-## Evidence
+## Achievements
 
 - 1st place in a CTF and top five in three others
 - Top 5% globally on TryHackMe
